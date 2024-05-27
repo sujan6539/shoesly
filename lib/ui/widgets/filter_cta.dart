@@ -25,6 +25,15 @@ class FilterCTA extends ConsumerWidget {
             SecondaryButton(
                 onPressed: () {
                   onClickEvent(ref, ContentType.secondaryButton, 'Reset');
+                  filterState.updateState(
+                      newFilter: Filter(
+                          brand: 'All',
+                          sortBy: SortByFilter.random,
+                          gender: GenderFilter.all,
+                          color: '',
+                          minPrice: 0,
+                          maxPrice: 1750));
+                  Navigator.pop(context);
                 },
                 title: 'Reset'),
             PrimaryButton(

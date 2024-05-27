@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shoesly/analytics/constant.dart';
 import 'package:shoesly/model/filter.dart';
+import 'package:shoesly/riverpod/filter/filter_state.dart';
 import 'package:shoesly/riverpod/product/product_notifier.dart';
 import 'package:shoesly/riverpod/provider.dart';
 import 'package:shoesly/ui/widgets/app_bar.dart';
@@ -83,7 +84,13 @@ class _ProductFilterState extends ConsumerState<ProductFilter> {
         .logScreenView(screenName: productFilterPageName);
 
     var products = ref.watch(productNotifierProvider);
-    Map<String, Brand> brandsmap = {};
+
+    FilterState filterState = ref.watch(filterStateNotifier);
+    filter = filterState.filter ?? filter;
+
+    Map<String, Brand> brandsmap = {
+      'all': Brand(name: 'all', logoUrl: 'logo', items: products.length)
+    };
 
     for (var p in products) {
       brandsmap[p.brand.toLowerCase()] = Brand(
