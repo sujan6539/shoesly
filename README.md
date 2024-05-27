@@ -27,6 +27,18 @@ Shoesly is a Flutter application that provides users with a seamless shopping ex
 ## Screenshots
 
 
+<!-- Screenshot 1 -->
+<img src="https://github.com/sujan6539/shoesly/blob/main/screenshots/Screenshot_1716810992.png" alt="Screenshot 1" width="400" height="800">
+
+<!-- Screenshot 2 -->
+<img src="https://github.com/sujan6539/shoesly/blob/main/screenshots/Screenshot_1716811050.png" alt="Screenshot 2" width="400" height="800">
+
+<!-- Screenshot 3 -->
+<img src="https://github.com/sujan6539/shoesly/blob/main/screenshots/Screenshot_1716811000.png" alt="Screenshot 3" width="400" height="800">
+
+for more, visit the screenshot folder in the root dir.
+
+
 
 ## Technologies Used
 
@@ -61,8 +73,12 @@ Shoesly is a Flutter application that provides users with a seamless shopping ex
    - Add an Android/iOS app to your Firebase project.
    - Generate firebase_options.dart file as shown in the Firebase documentations.
    - Download the `google-services.json` (for Android) or `GoogleService-Info.plist` (for iOS) configuration file and place it in the `android/app` (for Android) or `ios/Runner` (for iOS) directory of your Flutter project.
+     
+5. Once Firebase is set up:
+   - Download seed files from seed_json folder
+   - import seed JSONs into the firebase.
 
-5. Run the app:
+6. Run the app:
 
    ```bash
    flutter run
