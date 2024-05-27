@@ -1,0 +1,874 @@
+{
+  "adidas-solarboost": {
+    "reviews": [
+      {
+        "date": "2024-04-24",
+        "description": "Good support for long runs.",
+        "id": 32,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Emily Scott",
+        "stars": 4
+      },
+      {
+        "date": "2024-04-23",
+        "description": "Decent shoes, but a bit narrow.",
+        "id": 33,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Lucas Price",
+        "stars": 3
+      }
+    ],
+    "shoe_identifier": "adidas-solarboost"
+  },
+  "adidas-superstar": {
+    "reviews": [
+      {
+        "date": "2024-07-01",
+        "description": "Timeless design. Matches with almost everything.",
+        "id": 92,
+        "reviewer_image": "https://picsum.photos/seed/classicstyle/200/300",
+        "reviewer_name": "ClassicStyle",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-02",
+        "description": "Great for casual wear. A bit stiff at first.",
+        "id": 93,
+        "reviewer_image": "https://picsum.photos/seed/streetwear/200/300",
+        "reviewer_name": "StreetWear",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "adidas-superstar"
+  },
+  "adidas-terrex-free-hiker": {
+    "reviews": [
+      {
+        "date": "2024-04-22",
+        "description": "Perfect for hiking!",
+        "id": 34,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Isabella Martinez",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "adidas-terrex-free-hiker"
+  },
+  "adidas-ultraboost": {
+    "reviews": [
+      {
+        "date": "2024-04-25",
+        "description": "Amazing comfort and style.",
+        "id": 31,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Jackson King",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "adidas-ultraboost"
+  },
+  "adidas-ultraboost-20": {
+    "reviews": [
+      {
+        "date": "2024-04-21",
+        "description": "Very comfortable, great for running.",
+        "id": 35,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Nathan Cooper",
+        "stars": 4
+      },
+      {
+        "date": "2024-04-20",
+        "description": "Love the style and comfort.",
+        "id": 36,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Avery Rivera",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-01",
+        "description": "The Adidas Ultraboost 20 is incredibly comfortable and stylish. Perfect for my daily runs!",
+        "id": 37,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "JohnDoe123",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-02",
+        "description": "Adidas Ultraboost feels great on my feet. The cushioning is excellent, but the sizing runs a bit small.",
+        "id": 38,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "JaneSmith456",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-03",
+        "description": "Love the boost technology! Provides great energy return.",
+        "id": 39,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "SneakerFanatic",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-04",
+        "description": "Best running shoes I've ever owned. Highly recommended!",
+        "id": 40,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "RunningEnthusiast",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "adidas-ultraboost-20"
+  },
+  "adidas-zx-2k-boost": {
+    "reviews": [
+      {
+        "date": "2024-07-17",
+        "description": "Extremely comfortable with great energy return.",
+        "id": 108,
+        "reviewer_image": "https://picsum.photos/seed/boostlover/200/300",
+        "reviewer_name": "BoostLover",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-18",
+        "description": "Great for running and casual wear. Slightly bulky.",
+        "id": 109,
+        "reviewer_image": "https://picsum.photos/seed/streetrunner/200/300",
+        "reviewer_name": "StreetRunner",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "adidas-zx-2k-boost"
+  },
+  "asics-gel-contend-7": {
+    "reviews": [
+      {
+        "date": "2024-07-11",
+        "description": "Perfect for jogging. Very comfortable and supportive.",
+        "id": 102,
+        "reviewer_image": "https://picsum.photos/seed/jogger/200/300",
+        "reviewer_name": "Jogger",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-12",
+        "description": "Great for daily runs. Could use more color options.",
+        "id": 103,
+        "reviewer_image": "https://picsum.photos/seed/morningrunner/200/300",
+        "reviewer_name": "MorningRunner",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "asics-gel-contend-7"
+  },
+  "asics-gt-2000-9": {
+    "reviews": [
+      {
+        "date": "2024-06-25",
+        "description": "Excellent support for long runs. Very comfortable.",
+        "id": 86,
+        "reviewer_image": "https://picsum.photos/seed/runlover/200/300",
+        "reviewer_name": "RunLover",
+        "stars": 5
+      },
+      {
+        "date": "2024-06-26",
+        "description": "Great stability, but a bit heavy.",
+        "id": 87,
+        "reviewer_image": "https://picsum.photos/seed/marathonman/200/300",
+        "reviewer_name": "MarathonMan",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "asics-gt-2000-9"
+  },
+  "brooks-ghost-14": {
+    "reviews": [
+      {
+        "date": "2024-07-13",
+        "description": "Fantastic cushioning and support. Perfect for marathons.",
+        "id": 104,
+        "reviewer_image": "https://picsum.photos/seed/marathoner/200/300",
+        "reviewer_name": "Marathoner",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-14",
+        "description": "Great shoes, but a bit heavy.",
+        "id": 105,
+        "reviewer_image": "https://picsum.photos/seed/runnergirl/200/300",
+        "reviewer_name": "RunnerGal",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "brooks-ghost-14"
+  },
+  "brooks-levitate-4": {
+    "reviews": [
+      {
+        "date": "2024-06-27",
+        "description": "Bouncy and responsive. Love the energy return.",
+        "id": 88,
+        "reviewer_image": "https://picsum.photos/seed/happyrunner/200/300",
+        "reviewer_name": "HappyRunner",
+        "stars": 5
+      },
+      {
+        "date": "2024-06-28",
+        "description": "Comfortable, but the fit is a bit tight.",
+        "id": 89,
+        "reviewer_image": "https://picsum.photos/seed/speedygonzales/200/300",
+        "reviewer_name": "SpeedyGonzales",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "brooks-levitate-4"
+  },
+  "jordan-air-jordan-3-retro": {
+    "reviews": [
+      {
+        "date": "2024-07-03",
+        "description": "Iconic design and very comfortable.",
+        "id": 94,
+        "reviewer_image": "https://picsum.photos/seed/jordanfan/200/300",
+        "reviewer_name": "JordanFan",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-04",
+        "description": "Perfect for basketball, but a bit pricey.",
+        "id": 95,
+        "reviewer_image": "https://picsum.photos/seed/hoopdreams/200/300",
+        "reviewer_name": "HoopDreams",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "jordan-air-jordan-3-retro"
+  },
+  "jordan-air-jordan-5-retro": {
+    "reviews": [
+      {
+        "date": "2024-07-19",
+        "description": "Iconic and stylish. A must-have for any Jordan fan.",
+        "id": 110,
+        "reviewer_image": "https://picsum.photos/seed/jumpman/200/300",
+        "reviewer_name": "Jumpman",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-20",
+        "description": "Great for basketball, but the material feels a bit stiff.",
+        "id": 111,
+        "reviewer_image": "https://picsum.photos/seed/slamdunk/200/300",
+        "reviewer_name": "SlamDunk",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "jordan-air-jordan-5-retro"
+  },
+  "new-balance-997h": {
+    "reviews": [
+      {
+        "date": "2024-07-09",
+        "description": "Great fit and classic look. Very comfortable.",
+        "id": 100,
+        "reviewer_image": "https://picsum.photos/seed/nbfan/200/300",
+        "reviewer_name": "NBfan",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-10",
+        "description": "Stylish and comfortable, but a bit narrow.",
+        "id": 101,
+        "reviewer_image": "https://picsum.photos/seed/retrolove/200/300",
+        "reviewer_name": "RetroLover",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "new-balance-997h"
+  },
+  "nike-air-force-1": {
+    "reviews": [
+      {
+        "date": "2024-05-08",
+        "description": "Classic shoes, always a favorite!",
+        "id": 18,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Aiden Garcia",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-07",
+        "description": "Comfortable and stylish.",
+        "id": 19,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Mia Lee",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-06",
+        "description": "A bit heavy, but overall good shoes.",
+        "id": 20,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Ethan Wright",
+        "stars": 3
+      }
+    ],
+    "shoe_identifier": "nike-air-force-1"
+  },
+  "nike-air-max-90": {
+    "reviews": [
+      {
+        "date": "2024-05-05",
+        "description": "Nice retro look, very comfortable.",
+        "id": 21,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Liam Wilson",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-04",
+        "description": "Absolutely love these shoes!",
+        "id": 22,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Ava Lopez",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-03",
+        "description": "Decent quality, but not very supportive.",
+        "id": 23,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Logan Perez",
+        "stars": 3
+      }
+    ],
+    "shoe_identifier": "nike-air-max-90"
+  },
+  "nike-air-max-90-ltr": {
+    "reviews": [
+      {
+        "date": "2024-05-02",
+        "description": "Durable and comfortable, highly recommend!",
+        "id": 24,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Harper Carter",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "nike-air-max-90-ltr"
+  },
+  "nike-air-zoom-pegasus-36": {
+    "reviews": [
+      {
+        "date": "2024-04-28",
+        "description": "My favorite running shoes!",
+        "id": 28,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Sophie Rivera",
+        "stars": 5
+      },
+      {
+        "date": "2024-04-27",
+        "description": "Comfortable and supportive.",
+        "id": 29,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "David Hughes",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-air-zoom-pegasus-36"
+  },
+  "nike-air-zoom-pegasus-37": {
+    "reviews": [
+      {
+        "date": "2024-05-20",
+        "description": "Excellent grip and traction.",
+        "id": 6,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Chris Evans",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-air-zoom-pegasus-37"
+  },
+  "nike-air-zoom-pegasus-38": {
+    "reviews": [
+      {
+        "date": "2024-04-26",
+        "description": "Great fit, perfect for running.",
+        "id": 30,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Zoe Cooper",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-air-zoom-pegasus-38"
+  },
+  "nike-blazer-mid-77": {
+    "reviews": [
+      {
+        "date": "2024-06-29",
+        "description": "Classic look, very stylish. Great for everyday wear.",
+        "id": 90,
+        "reviewer_image": "https://picsum.photos/seed/sneakerhead/200/300",
+        "reviewer_name": "Sneakerhead",
+        "stars": 5
+      },
+      {
+        "date": "2024-06-30",
+        "description": "Love the retro design, but not the most comfortable for long walks.",
+        "id": 91,
+        "reviewer_image": "https://picsum.photos/seed/retrofan/200/300",
+        "reviewer_name": "RetroFan",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-blazer-mid-77"
+  },
+  "nike-joyride-dual-run": {
+    "reviews": [
+      {
+        "date": "2024-05-01",
+        "description": "Great for everyday use.",
+        "id": 25,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "William Mitchell",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-joyride-dual-run"
+  },
+  "nike-joyride-run-flyknit": {
+    "reviews": [
+      {
+        "date": "2024-05-19",
+        "description": "Nice design and comfortable fit.",
+        "id": 7,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Jessica Parker",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-18",
+        "description": "Great for long-distance running.",
+        "id": 8,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Ryan Thompson",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "nike-joyride-run-flyknit"
+  },
+  "nike-mercurial-superfly-7-pro-mds-fg": {
+    "reviews": [
+      {
+        "date": "2024-05-09",
+        "description": "Not as breathable as expected.",
+        "id": 17,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Ella Martinez",
+        "stars": 3
+      }
+    ],
+    "shoe_identifier": "nike-mercurial-superfly-7-pro-mds-fg"
+  },
+  "nike-mercurial-vapor-13-elite-fg": {
+    "reviews": [
+      {
+        "date": "2024-05-17",
+        "description": "Decent quality, but not very durable.",
+        "id": 9,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Hannah White",
+        "stars": 3
+      },
+      {
+        "date": "2024-05-16",
+        "description": "Feels like walking on clouds!",
+        "id": 10,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Matt Davis",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "nike-mercurial-vapor-13-elite-fg"
+  },
+  "nike-mercurial-vapor-13-elite-tech-craft-fg": {
+    "reviews": [
+      {
+        "date": "2024-05-11",
+        "description": "No complaints, great shoes!",
+        "id": 15,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Emma Harris",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-10",
+        "description": "Provides excellent arch support.",
+        "id": 16,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Noah Anderson",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-mercurial-vapor-13-elite-tech-craft-fg"
+  },
+  "nike-phantom-venom-academy-fg": {
+    "reviews": [
+      {
+        "date": "2024-05-13",
+        "description": "A bit tight around the toes.",
+        "id": 13,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Sophia Clark",
+        "stars": 3
+      },
+      {
+        "date": "2024-05-12",
+        "description": "Solid construction and comfortable fit.",
+        "id": 14,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "James Taylor",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-phantom-venom-academy-fg"
+  },
+  "nike-phantom-vision-elite-dynamic-fit-fg": {
+    "reviews": [
+      {
+        "date": "2024-05-15",
+        "description": "Good support for my arches.",
+        "id": 11,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Olivia Wilson",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-14",
+        "description": "Perfect for my daily runs.",
+        "id": 12,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Daniel Martinez",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "nike-phantom-vision-elite-dynamic-fit-fg"
+  },
+  "nike-react-infinity-run-flyknit": {
+    "reviews": [
+      {
+        "date": "2024-05-25",
+        "description": "Great shoes! Very comfortable and supportive.",
+        "id": 1,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "John Doe",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-24",
+        "description": "Good quality, but a bit pricey.",
+        "id": 2,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Jane Smith",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-23",
+        "description": "Very stylish and comfortable shoes.",
+        "id": 3,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Alice Johnson",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-react-infinity-run-flyknit"
+  },
+  "nike-react-miler": {
+    "reviews": [
+      {
+        "date": "2024-05-22",
+        "description": "Impressive cushioning and support.",
+        "id": 4,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Mike Brown",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-21",
+        "description": "Decent shoes, but the sizing is a bit off.",
+        "id": 5,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Sarah Adams",
+        "stars": 3
+      }
+    ],
+    "shoe_identifier": "nike-react-miler"
+  },
+  "nike-renew-run": {
+    "reviews": [
+      {
+        "date": "2024-04-30",
+        "description": "Excellent cushioning, perfect for running.",
+        "id": 26,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Abigail Hall",
+        "stars": 5
+      },
+      {
+        "date": "2024-04-29",
+        "description": "Good value for the price.",
+        "id": 27,
+        "reviewer_image": "https://picsum.photos/seed/picsum/200/300",
+        "reviewer_name": "Henry Nelson",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-renew-run"
+  },
+  "nike-zoomx-vaporfly-next%": {
+    "reviews": [
+      {
+        "date": "2024-07-15",
+        "description": "Incredible speed and comfort. Worth every penny.",
+        "id": 106,
+        "reviewer_image": "https://picsum.photos/seed/speedrunner/200/300",
+        "reviewer_name": "SpeedRunner",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-16",
+        "description": "Amazing performance, but the price is high.",
+        "id": 107,
+        "reviewer_image": "https://picsum.photos/seed/prorunner/200/300",
+        "reviewer_name": "ProRunner",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nike-zoomx-vaporfly-next%"
+  },
+  "nmd_r1": {
+    "reviews": [
+      {
+        "date": "2024-05-24",
+        "description": "Good running shoes. Provides decent support.",
+        "id": 60,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "RunningEnthusiast",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-25",
+        "description": "Love the style and comfort. Great for workouts.",
+        "id": 61,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "AthleticMom",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "nmd_r1"
+  },
+  "nmd_r1-flash-red": {
+    "reviews": [
+      {
+        "date": "2024-05-26",
+        "description": "Stylish and comfortable! Perfect for casual wear.",
+        "id": 62,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "Fashionista",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-27",
+        "description": "Great color and fit. Adds a pop of color to any outfit.",
+        "id": 63,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "TrendyGal",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "nmd_r1-flash-red"
+  },
+  "skechers-flex-advantage-3-0": {
+    "reviews": [
+      {
+        "date": "2024-07-21",
+        "description": "Incredibly flexible and comfortable. Perfect for everyday wear.",
+        "id": 112,
+        "reviewer_image": "https://picsum.photos/seed/flexmaster/200/300",
+        "reviewer_name": "FlexMaster",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-22",
+        "description": "Great for walking and light exercise. Could use better arch support.",
+        "id": 113,
+        "reviewer_image": "https://picsum.photos/seed/walker/200/300",
+        "reviewer_name": "Walker",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "skechers-flex-advantage-3-0"
+  },
+  "skechers-max-cushioning-elite": {
+    "reviews": [
+      {
+        "date": "2024-07-05",
+        "description": "Extremely comfortable. Feels like walking on clouds.",
+        "id": 96,
+        "reviewer_image": "https://picsum.photos/seed/comfortseeker/200/300",
+        "reviewer_name": "ComfortSeeker",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-06",
+        "description": "Great cushioning, but the design is a bit bulky.",
+        "id": 97,
+        "reviewer_image": "https://picsum.photos/seed/dailywalker/200/300",
+        "reviewer_name": "DailyWalker",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "skechers-max-cushioning-elite"
+  },
+  "stan-smith": {
+    "reviews": [
+      {
+        "date": "2024-05-21",
+        "description": "Love these shoes! Very comfortable and stylish.",
+        "id": 57,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "SneakerKid",
+        "stars": 5
+      },
+      {
+        "date": "2024-05-22",
+        "description": "Great for everyday wear. Goes well with any outfit.",
+        "id": 58,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "ShoeLover123",
+        "stars": 4
+      },
+      {
+        "date": "2024-05-23",
+        "description": "My favorite shoes! Comfortable and durable.",
+        "id": 59,
+        "reviewer_image": "https://picsum.photos/200",
+        "reviewer_name": "FashionKid",
+        "stars": 5
+      }
+    ],
+    "shoe_identifier": "stan-smith"
+  },
+  "under-armour-hovr-sonic-4": {
+    "reviews": [
+      {
+        "date": "2024-07-07",
+        "description": "Amazing fit and great for tech integration.",
+        "id": 98,
+        "reviewer_image": "https://picsum.photos/seed/techrunner/200/300",
+        "reviewer_name": "TechRunner",
+        "stars": 5
+      },
+      {
+        "date": "2024-07-08",
+        "description": "Comfortable and durable, but the app connectivity can be glitchy.",
+        "id": 99,
+        "reviewer_image": "https://picsum.photos/seed/fitnessfreak/200/300",
+        "reviewer_name": "FitnessFreak",
+        "stars": 4
+      }
+    ],
+    "shoe_identifier": "under-armour-hovr-sonic-4"
+  },
+  "adidas-ultraboost-21": {
+    "shoe_identifier": "adidas-ultraboost-21",
+    "reviews": [
+      {
+        "id": 1,
+        "stars": 5,
+        "reviewer_name": "John Doe",
+        "reviewer_image": "https://picsum.photos/seed/johndoe/200/300",
+        "description": "Absolutely love these shoes! They're incredibly comfortable and provide excellent support for running long distances.",
+        "date": "2024-05-27"
+      },
+      {
+        "id": 2,
+        "stars": 4,
+        "reviewer_name": "Jane Smith",
+        "reviewer_image": "https://picsum.photos/seed/janesmith/200/300",
+        "description": "Great shoes for casual wear. The boost cushioning feels fantastic and the Primeknit upper hugs my feet nicely.",
+        "date": "2024-05-25"
+      },
+      {
+        "id": 20,
+        "stars": 5,
+        "reviewer_name": "Alice Johnson",
+        "reviewer_image": "https://picsum.photos/seed/alicejohnson/200/300",
+        "description": "Best running shoes I've ever owned! The comfort and support are unmatched.",
+        "date": "2024-05-10"
+      }
+    ]
+  },
+  "adidas-nmd-r1": {
+    "shoe_identifier": "adidas-nmd-r1",
+    "reviews": [
+      {
+        "id": 1,
+        "stars": 5,
+        "reviewer_name": "Emily Johnson",
+        "reviewer_image": "https://picsum.photos/seed/emilyjohnson/200/300",
+        "description": "These shoes are so stylish and comfortable. I get compliments every time I wear them!",
+        "date": "2024-05-26"
+      },
+      {
+        "id": 2,
+        "stars": 4,
+        "reviewer_name": "Michael Brown",
+        "reviewer_image": "https://picsum.photos/seed/michaelbrown/200/300",
+        "description": "Really like the design of these shoes. The Boost cushioning makes them great for walking all day.",
+        "date": "2024-05-24"
+      },
+      {
+        "id": 20,
+        "stars": 4,
+        "reviewer_name": "Ethan Wilson",
+        "reviewer_image": "https://picsum.photos/seed/ethanwilson/200/300",
+        "description": "Solid shoes with a cool design. Comfortable for everyday wear.",
+        "date": "2024-05-12"
+      }
+    ]
+  },
+  "adidas-ozweego": {
+    "shoe_identifier": "adidas-ozweego",
+    "reviews": [
+      {
+        "id": 1,
+        "stars": 4,
+        "reviewer_name": "Sarah Williams",
+        "reviewer_image": "https://picsum.photos/seed/sarahwilliams/200/300",
+        "description": "Nice shoes, very comfortable. The chunky sole gives them a unique look.",
+        "date": "2024-05-23"
+      },
+      {
+        "id": 2,
+        "stars": 3,
+        "reviewer_name": "David Martinez",
+        "reviewer_image": "https://picsum.photos/seed/davidmartinez/200/300",
+        "description": "Decent shoes, but the fit was a bit off for me. Might try a different size next time.",
+        "date": "2024-05-21"
+      },
+      {
+        "id": 20,
+        "stars": 4,
+        "reviewer_name": "Olivia Taylor",
+        "reviewer_image": "https://picsum.photos/seed/oliviataylor/200/300",
+        "description": "Love the style of these shoes. They're comfortable for walking and look great with any outfit.",
+        "date": "2024-05-15"
+      }
+    ]
+  }
+}

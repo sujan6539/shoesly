@@ -1,0 +1,628 @@
+{
+  "adidas-yeezy-boost-350-v2": {
+    "description": "The Adidas Yeezy Boost 350 V2 offers iconic style with modern comfort. It features a Primeknit upper, Boost cushioning, and a rubber outsole for traction and durability.",
+    "id": 37,
+    "images": [
+      "https://images.pexels.com/photos/6685972/pexels-photo-6685972.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/11820506/pexels-photo-11820506.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/9899850/pexels-photo-9899850.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "name": "Adidas Yeezy Boost 350 V2",
+    "shoe_identifier": "adidas-yeezy-boost-350-v2",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "club-c-revenge-mens": {
+    "description": "The Club C Revenge Mens sneaker offers classic style with modern comfort. It features a leather upper, padded collar, and EVA midsole for lightweight cushioning.",
+    "id": 34,
+    "images": [
+      "https://example.com/club-c-revenge-mens-1.jpg",
+      "https://example.com/club-c-revenge-mens-2.jpg",
+      "https://example.com/club-c-revenge-mens-3.jpg"
+    ],
+    "name": "Club C Revenge Mens",
+    "shoe_identifier": "club-c-revenge-mens",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "michael-feburary-sk8-hi": {
+    "description": "The Michael Feburary SK8-Hi is a classic skate shoe with a modern twist. It features a suede and canvas upper, padded collar, and vulcanized rubber outsole for traction and durability.",
+    "id": 36,
+    "images": [
+      "https://example.com/michael-feburary-sk8-hi-1.jpg",
+      "https://example.com/michael-feburary-sk8-hi-2.jpg",
+      "https://example.com/michael-feburary-sk8-hi-3.jpg"
+    ],
+    "name": "Michael Feburary SK8-Hi",
+    "shoe_identifier": "michael-feburary-sk8-hi",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "new-balance-574": {
+    "description": "The New Balance 574 offers classic style and all-day comfort. It features a suede and mesh upper, ENCAP midsole cushioning, and a rubber outsole for traction and durability.",
+    "id": 42,
+    "images": [
+      "https://example.com/new-balance-574-1.jpg",
+      "https://example.com/new-balance-574-2.jpg",
+      "https://example.com/new-balance-574-3.jpg"
+    ],
+    "name": "New Balance 574",
+    "shoe_identifier": "new-balance-574",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-force-1": {
+    "description": "The Nike Air Force 1 is a timeless classic that offers iconic style and everyday comfort. It features a low-cut silhouette, a padded collar, and Nike Air cushioning for lightweight support.",
+    "id": 10,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-force-1",
+      "https://source.unsplash.com/600x400/?nike-air-force-1",
+      "https://source.unsplash.com/600x400/?nike-air-force-1"
+    ],
+    "name": "Nike Air Force 1",
+    "shoe_identifier": "nike-air-force-1",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-force-1-07-lv8": {
+    "description": "The Nike Air Force 1 '07 LV8 puts a fresh spin on the '82 classic. It features premium materials, bold colors, and the iconic Air cushioning for all-day comfort and style.",
+    "id": 31,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-force-1-07-lv8",
+      "https://source.unsplash.com/600x400/?nike-air-force-1-07-lv8",
+      "https://source.unsplash.com/600x400/?nike-air-force-1-07-lv8"
+    ],
+    "name": "Nike Air Force 1 '07 LV8",
+    "shoe_identifier": "nike-air-force-1-07-lv8",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-max-270": {
+    "description": "The Nike Air Max 270 delivers visible Air cushioning for all-day comfort. It features a breathable mesh upper, a foam midsole for cushioned support, and a rubber outsole for traction and durability.",
+    "id": 26,
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/covmdnim1rkbkbxtm23v/air-max-270-older-shoe-wfSpgH.png",
+      "https://static.nike.com/a/images/t_default/qv3dvpnjrciy0nafb89a/air-max-270-mens-shoes-KkLcGR.png",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/csnnsvmzomr1gu7qfcnd/air-max-270-womens-shoes-Pgb94t.png"
+    ],
+    "name": "Nike Air Max 270",
+    "shoe_identifier": "nike-air-max-270",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-max-270-react": {
+    "description": "The Nike Air Max 270 React combines Nike's tallest Air unit with soft, springy foam for lightweight, responsive cushioning. It features a sleek, modern design with a breathable mesh upper and a durable rubber outsole.",
+    "id": 27,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-max-270-react",
+      "https://source.unsplash.com/600x400/?nike-air-max-270-react",
+      "https://source.unsplash.com/600x400/?nike-air-max-270-react"
+    ],
+    "name": "Nike Air Max 270 React",
+    "shoe_identifier": "nike-air-max-270-react",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-max-90": {
+    "description": "The Nike Air Max 90 is a retro sneaker that delivers lasting comfort and timeless style. It features a leather and mesh upper, visible Air cushioning in the heel, and a rubber outsole for traction and durability.",
+    "id": 11,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-max-90",
+      "https://source.unsplash.com/600x400/?nike-air-max-90",
+      "https://source.unsplash.com/600x400/?nike-air-max-90"
+    ],
+    "name": "Nike Air Max 90",
+    "shoe_identifier": "nike-air-max-90",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-max-90-ltr": {
+    "description": "The Nike Air Max 90 LTR offers classic style and maximum comfort. It features a leather upper, visible Air cushioning in the heel, and a rubber outsole for traction and durability.",
+    "id": 12,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-max-90-ltr",
+      "https://source.unsplash.com/600x400/?nike-air-max-90-ltr",
+      "https://source.unsplash.com/600x400/?nike-air-max-90-ltr"
+    ],
+    "name": "Nike Air Max 90 LTR",
+    "shoe_identifier": "nike-air-max-90-ltr",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-max-97": {
+    "description": "The Nike Air Max 97 celebrates the iconic look of a '90s running shoe with modern comfort features. It features a full-length Max Air unit for lightweight cushioning and a classic design that's sure to turn heads.",
+    "id": 28,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-max-97",
+      "https://source.unsplash.com/600x400/?nike-air-max-97",
+      "https://source.unsplash.com/600x400/?nike-air-max-97"
+    ],
+    "name": "Nike Air Max 97",
+    "shoe_identifier": "nike-air-max-97",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-max-plus": {
+    "description": "The Nike Air Max Plus offers a modern take on the '90s classic. It features Tuned Air cushioning for responsive comfort, a durable upper with supportive overlays, and a rubber outsole for traction and durability.",
+    "id": 29,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-max-plus",
+      "https://source.unsplash.com/600x400/?nike-air-max-plus",
+      "https://source.unsplash.com/600x400/?nike-air-max-plus"
+    ],
+    "name": "Nike Air Max Plus",
+    "shoe_identifier": "nike-air-max-plus",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-vapormax-360": {
+    "description": "The Nike Air VaporMax 360 combines past and present Air cushioning for a futuristic look and feel. It features a full-length Air unit and foam midsole for lightweight cushioning and a breathable mesh upper for comfort and support.",
+    "id": 30,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-vapormax-360",
+      "https://source.unsplash.com/600x400/?nike-air-vapormax-360",
+      "https://source.unsplash.com/600x400/?nike-air-vapormax-360"
+    ],
+    "name": "Nike Air VaporMax 360",
+    "shoe_identifier": "nike-air-vapormax-360",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-zoom-pegasus-36": {
+    "description": "The Nike Air Zoom Pegasus 36 offers responsive cushioning and a secure fit for your daily runs. It features a Zoom Air unit in the forefoot and a lightweight mesh upper for breathability and support.",
+    "id": 15,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-36",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-36",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-36"
+    ],
+    "name": "Nike Air Zoom Pegasus 36",
+    "shoe_identifier": "nike-air-zoom-pegasus-36",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-zoom-pegasus-37": {
+    "description": "The Nike Air Zoom Pegasus 37 delivers the same fit and feel that runners love, with an all-new forefoot Air Zoom unit and Nike React foam for maximum cushioning and responsiveness.",
+    "id": 3,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-37",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-37",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-37"
+    ],
+    "name": "Nike Air Zoom Pegasus 37",
+    "shoe_identifier": "nike-air-zoom-pegasus-37",
+    "sizes": ["6", "7", "8", "9", "10"]
+  },
+  "nike-air-zoom-pegasus-37-1": {
+    "description": "The Nike Air Zoom Pegasus 37 delivers the same fit and feel that runners love, with an all-new forefoot Air Zoom unit and Nike React foam for maximum cushioning and responsiveness.",
+    "id": 16,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-37-1",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-37-1",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-37-1"
+    ],
+    "name": "Nike Air Zoom Pegasus 37",
+    "shoe_identifier": "nike-air-zoom-pegasus-37-1",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-zoom-pegasus-trail-2": {
+    "description": "The Nike Air Zoom Pegasus Trail 2 is built for off-road runs and rugged terrain. It features responsive cushioning and a durable outsole with lugs for traction on wet and slippery surfaces.",
+    "id": 19,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-trail-2",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-trail-2",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-pegasus-trail-2"
+    ],
+    "name": "Nike Air Zoom Pegasus Trail 2",
+    "shoe_identifier": "nike-air-zoom-pegasus-trail-2",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-zoom-structure-22": {
+    "description": "The Nike Air Zoom Structure 22 offers stability and support for overpronators. It features a Dynamic Support midsole for a smooth, stable ride and Zoom Air cushioning in the forefoot for responsive cushioning.",
+    "id": 22,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-structure-22",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-structure-22",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-structure-22"
+    ],
+    "name": "Nike Air Zoom Structure 22",
+    "shoe_identifier": "nike-air-zoom-structure-22",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-zoom-tempo-next": {
+    "description": "The Nike Air Zoom Tempo Next% is built for tempo runs and race day. It features ZoomX foam in the forefoot for responsive cushioning and a lightweight design that helps you pick up the pace.",
+    "id": 17,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-tempo-next",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-tempo-next",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-tempo-next"
+    ],
+    "name": "Nike Air Zoom Tempo Next",
+    "shoe_identifier": "nike-air-zoom-tempo-next",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-air-zoom-vomero-14": {
+    "description": "The Nike Air Zoom Vomero 14 offers plush cushioning and a responsive ride for your daily runs. It features Zoom Air units in the heel and forefoot for cushioned comfort and a breathable mesh upper for lightweight support.",
+    "id": 23,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-air-zoom-vomero-14",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-vomero-14",
+      "https://source.unsplash.com/600x400/?nike-air-zoom-vomero-14"
+    ],
+    "name": "Nike Air Zoom Vomero 14",
+    "shoe_identifier": "nike-air-zoom-vomero-14",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-blazer-mid-77": {
+    "description": "The Nike Blazer Mid '77 offers retro style and modern comfort. It features a premium leather upper, vintage details, and a rubber outsole for traction and durability.",
+    "id": 32,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-blazer-mid-77",
+      "https://source.unsplash.com/600x400/?nike-blazer-mid-77",
+      "https://source.unsplash.com/600x400/?nike-blazer-mid-77"
+    ],
+    "name": "Nike Blazer Mid '77",
+    "shoe_identifier": "nike-blazer-mid-77",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-dunk-low": {
+    "description": "The Nike Dunk Low offers iconic style and everyday comfort. It features a low-cut silhouette, a padded collar, and a rubber outsole for traction and durability.",
+    "id": 33,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-dunk-low",
+      "https://source.unsplash.com/600x400/?nike-dunk-low",
+      "https://source.unsplash.com/600x400/?nike-dunk-low"
+    ],
+    "name": "Nike Dunk Low",
+    "shoe_identifier": "nike-dunk-low",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-epic-react-flyknit-2": {
+    "description": "The Nike Epic React Flyknit 2 offers lightweight cushioning and a smooth ride for your runs. It features a Flyknit upper for a snug, supportive fit and Nike React foam for responsive cushioning.",
+    "id": 24,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-epic-react-flyknit-2",
+      "https://source.unsplash.com/600x400/?nike-epic-react-flyknit-2",
+      "https://source.unsplash.com/600x400/?nike-epic-react-flyknit-2"
+    ],
+    "name": "Nike Epic React Flyknit 2",
+    "shoe_identifier": "nike-epic-react-flyknit-2",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-joyride-cc3-setter": {
+    "description": "The Nike Joyride CC3 Setter offers plush cushioning and a unique underfoot feel. It features Joyride cushioning technology with tiny foam beads that adjust to your foot for personalized comfort and support.",
+    "id": 18,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-joyride-cc3-setter",
+      "https://source.unsplash.com/600x400/?nike-joyride-cc3-setter",
+      "https://source.unsplash.com/600x400/?nike-joyride-cc3-setter"
+    ],
+    "name": "Nike Joyride CC3 Setter",
+    "shoe_identifier": "nike-joyride-cc3-setter",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-joyride-dual-run": {
+    "description": "The Nike Joyride Dual Run offers plush comfort and a smooth ride for your daily runs. It features tiny foam beads in the midsole for personalized cushioning and a breathable mesh upper for lightweight support.",
+    "id": 13,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-joyride-dual-run",
+      "https://source.unsplash.com/600x400/?nike-joyride-dual-run",
+      "https://source.unsplash.com/600x400/?nike-joyride-dual-run"
+    ],
+    "name": "Nike Joyride Dual Run",
+    "shoe_identifier": "nike-joyride-dual-run",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-joyride-run-flyknit": {
+    "description": "The Nike Joyride Run Flyknit is designed to make running feel easier and more enjoyable. It features tiny foam beads in the midsole that conform to your foot for personalized cushioning and support.",
+    "id": 4,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-joyride-run-flyknit",
+      "https://source.unsplash.com/600x400/?nike-joyride-run-flyknit",
+      "https://source.unsplash.com/600x400/?nike-joyride-run-flyknit"
+    ],
+    "name": "Nike Joyride Run Flyknit",
+    "shoe_identifier": "nike-joyride-run-flyknit",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-mercurial-superfly-7-pro-mds-fg": {
+    "description": "The Nike Mercurial Superfly 7 Pro MDS FG is designed for explosive speed on the soccer field. It features a Dynamic Fit collar for a secure, supportive fit and a lightweight soleplate for rapid acceleration.",
+    "id": 9,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-mercurial-superfly-7-pro-mds-fg",
+      "https://source.unsplash.com/600x400/?nike-mercurial-superfly-7-pro-mds-fg",
+      "https://source.unsplash.com/600x400/?nike-mercurial-superfly-7-pro-mds-fg"
+    ],
+    "name": "Nike Mercurial Superfly 7 Pro MDS FG",
+    "shoe_identifier": "nike-mercurial-superfly-7-pro-mds-fg",
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "nike-mercurial-vapor-13-elite-fg": {
+    "description": "The Nike Mercurial Vapor 13 Elite FG is built for speed and agility on the soccer field. It features a lightweight upper and a stud configuration designed for quick cuts and acceleration.",
+    "id": 5,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-mercurial-vapor-13-elite-fg",
+      "https://source.unsplash.com/600x400/?nike-mercurial-vapor-13-elite-fg",
+      "https://source.unsplash.com/600x400/?nike-mercurial-vapor-13-elite-fg"
+    ],
+    "name": "Nike Mercurial Vapor 13 Elite FG",
+    "shoe_identifier": "nike-mercurial-vapor-13-elite-fg",
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "nike-mercurial-vapor-13-elite-tech-craft-fg": {
+    "description": "The Nike Mercurial Vapor 13 Elite Tech Craft FG combines precision engineering with artisanal craftsmanship. It features a premium leather upper and a lightweight soleplate for agility and control on the soccer field.",
+    "id": 8,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-mercurial-vapor-13-elite-tech-craft-fg",
+      "https://source.unsplash.com/600x400/?nike-mercurial-vapor-13-elite-tech-craft-fg",
+      "https://source.unsplash.com/600x400/?nike-mercurial-vapor-13-elite-tech-craft-fg"
+    ],
+    "name": "Nike Mercurial Vapor 13 Elite Tech Craft FG",
+    "shoe_identifier": "nike-mercurial-vapor-13-elite-tech-craft-fg",
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "nike-pegasus-36-trail-gore-tex": {
+    "description": "The Nike Pegasus 36 Trail GORE-TEX is built for wet and muddy conditions. It features a waterproof GORE-TEX membrane to keep your feet dry and a lugged outsole for traction on rugged terrain.",
+    "id": 25,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-pegasus-36-trail-gore-tex",
+      "https://source.unsplash.com/600x400/?nike-pegasus-36-trail-gore-tex",
+      "https://source.unsplash.com/600x400/?nike-pegasus-36-trail-gore-tex"
+    ],
+    "name": "Nike Pegasus 36 Trail GORE-TEX",
+    "shoe_identifier": "nike-pegasus-36-trail-gore-tex",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-pegasus-turbo-2": {
+    "description": "The Nike Pegasus Turbo 2 is designed for speed and comfort on long runs. It features a lightweight upper, responsive ZoomX foam in the midsole, and a rubber outsole for traction and durability.",
+    "id": 20,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-pegasus-turbo-2",
+      "https://source.unsplash.com/600x400/?nike-pegasus-turbo-2",
+      "https://source.unsplash.com/600x400/?nike-pegasus-turbo-2"
+    ],
+    "name": "Nike Pegasus Turbo 2",
+    "shoe_identifier": "nike-pegasus-turbo-2",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-phantom-venom-academy-fg": {
+    "description": "The Nike Phantom Venom Academy FG is designed for powerful, precise strikes on the soccer field. It features a textured upper for enhanced ball control and a firm-ground stud pattern for traction and stability.",
+    "id": 7,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-phantom-venom-academy-fg",
+      "https://source.unsplash.com/600x400/?nike-phantom-venom-academy-fg",
+      "https://source.unsplash.com/600x400/?nike-phantom-venom-academy-fg"
+    ],
+    "name": "Nike Phantom Venom Academy FG",
+    "shoe_identifier": "nike-phantom-venom-academy-fg",
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "nike-phantom-vision-elite-dynamic-fit-fg": {
+    "description": "The Nike Phantom Vision Elite Dynamic Fit FG provides precise touch and control on the soccer field. It features a Dynamic Fit collar and Ghost Lace system for a secure, locked-in fit.",
+    "id": 6,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-phantom-vision-elite-dynamic-fit-fg",
+      "https://source.unsplash.com/600x400/?nike-phantom-vision-elite-dynamic-fit-fg",
+      "https://source.unsplash.com/600x400/?nike-phantom-vision-elite-dynamic-fit-fg"
+    ],
+    "name": "Nike Phantom Vision Elite Dynamic Fit FG",
+    "shoe_identifier": "nike-phantom-vision-elite-dynamic-fit-fg",
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "nike-react-infinity-run-flyknit": {
+    "description": "The Nike React Infinity Run Flyknit is designed to help reduce injuries and keep you on the run. It features a Flyknit upper for lightweight breathability and a responsive React foam midsole for cushioning and support.",
+    "id": 1,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-react-infinity-run-flyknit",
+      "https://source.unsplash.com/600x400/?nike-react-infinity-run-flyknit",
+      "https://source.unsplash.com/600x400/?nike-react-infinity-run-flyknit"
+    ],
+    "name": "Nike React Infinity Run Flyknit",
+    "shoe_identifier": "nike-react-infinity-run-flyknit",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-react-miler": {
+    "description": "The Nike React Miler offers stability and comfort for your long runs. It features a durable mesh upper for breathability, a padded collar for ankle support, and Nike React foam for a responsive feel.",
+    "id": 2,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-react-miler",
+      "https://source.unsplash.com/600x400/?nike-react-miler",
+      "https://source.unsplash.com/600x400/?nike-react-miler"
+    ],
+    "name": "Nike React Miler",
+    "shoe_identifier": "nike-react-miler",
+    "sizes": ["7.5", "8.5", "9.5", "10.5"]
+  },
+  "nike-renew-run": {
+    "description": "The Nike Renew Run offers soft, stable comfort for your daily runs. It features a supportive midfoot cage and plush cushioning underfoot to help absorb impact and reduce fatigue.",
+    "id": 14,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-renew-run",
+      "https://source.unsplash.com/600x400/?nike-renew-run",
+      "https://source.unsplash.com/600x400/?nike-renew-run"
+    ],
+    "name": "Nike Renew Run",
+    "shoe_identifier": "nike-renew-run",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "nike-zoom-fly-3": {
+    "description": "The Nike Zoom Fly 3 is built for tempo runs and race day. It features a carbon fiber plate in the midsole for a propulsive feel and responsive cushioning that helps you maintain your pace.",
+    "id": 21,
+    "images": [
+      "https://source.unsplash.com/600x400/?nike-zoom-fly-3",
+      "https://source.unsplash.com/600x400/?nike-zoom-fly-3",
+      "https://source.unsplash.com/600x400/?nike-zoom-fly-3"
+    ],
+    "name": "Nike Zoom Fly 3",
+    "shoe_identifier": "nike-zoom-fly-3",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "puma-rs-x3": {
+    "description": "The Puma RS-X3 offers retro style with modern comfort. It features a mesh upper, padded collar, and cushioned midsole for all-day support.",
+    "id": 38,
+    "images": [
+      "https://example.com/puma-rs-x3-1.jpg",
+      "https://example.com/puma-rs-x3-2.jpg",
+      "https://example.com/puma-rs-x3-3.jpg"
+    ],
+    "name": "Puma RS-X3",
+    "shoe_identifier": "puma-rs-x3",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "reebok-club-c-85": {
+    "description": "The Reebok Club C 85 offers classic style with modern comfort. It features a leather upper, padded collar, and EVA midsole for lightweight cushioning.",
+    "id": 39,
+    "images": [
+      "https://example.com/reebok-club-c-85-1.jpg",
+      "https://example.com/reebok-club-c-85-2.jpg",
+      "https://example.com/reebok-club-c-85-3.jpg"
+    ],
+    "name": "Reebok Club C 85",
+    "shoe_identifier": "reebok-club-c-85",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "sk80-low": {
+    "description": "The SK80-Low sneaker offers a sleek, minimalist design with maximum comfort. It features a leather upper, padded collar, and cushioned insole for all-day support.",
+    "id": 35,
+    "images": [
+      "https://example.com/sk80-low-1.jpg",
+      "https://example.com/sk80-low-2.jpg",
+      "https://example.com/sk80-low-3.jpg"
+    ],
+    "name": "SK80-Low",
+    "shoe_identifier": "sk80-low",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "skechers-dlites": {
+    "description": "The Skechers D'Lites sneaker offers retro style with modern comfort. It features a leather and synthetic upper, padded collar, and cushioned insole for all-day support.",
+    "id": 40,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4G3Z3tyOMpOyEtzqC7wmOxUryeoEzxcQpsa7zJTpOw&s",
+      "https://example.com/skechers-dlites-2.jpg",
+      "https://example.com/skechers-dlites-3.jpg"
+    ],
+    "name": "Skechers D'Lites",
+    "shoe_identifier": "skechers-dlites",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "under-armour-charged-assert-8": {
+    "description": "The Under Armour Charged Assert 8 offers lightweight cushioning and support for your daily runs. It features a breathable mesh upper, supportive overlays, and a dual-layer Charged Cushioning midsole.",
+    "id": 41,
+    "images": [
+      "https://underarmour.scene7.com/is/image/Underarmour/3021952-001_DEFAULT?wid=750&hei=750&fmt=jpg",
+      "https://www.underarmour.co.th/en-th/p/outlet/womens_ua_charged_assert_8_running_shoes/3021972.html#index-3",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIEX1FrozkSCNS79E18Nf40hE3Mle4pyTQio_VFdvD6Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgSQ8466QbaXF4OYkvUU9b77PKWEOnaIlmg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahEBCz_ylCDExcJqOUGpkAW_lTk-z1Qvr2gPo6zyP9WntWIsqirLBc0Kikc1BZySNUgg&usqp=CAU"
+    ],
+    "name": "Under Armour Charged Assert 8",
+    "shoe_identifier": "under-armour-charged-assert-8",
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "under-armour-hovr-phantom": {
+    "id": 1,
+    "name": "Under Armour HOVR Phantom",
+    "shoe_identifier": "under-armour-hovr-phantom",
+    "images": [
+      "https://underarmour.scene7.com/is/image/Underarmour/3022587-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3022587-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3022587-001_FC"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Under Armour HOVR Phantom is a high-performance running shoe suitable for both men and women. It features HOVR cushioning technology for a responsive and comfortable ride, while the breathable upper keeps your feet cool and dry during your runs."
+  },
+  "under-armour-curry-7": {
+    "id": 2,
+    "name": "Under Armour Curry 7",
+    "shoe_identifier": "under-armour-curry-7",
+    "images": [
+      "https://underarmour.scene7.com/is/image/Underarmour/3021258-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021258-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021258-001_FC"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Under Armour Curry 7 is a versatile basketball shoe designed for both men and women. It features a lightweight and breathable upper for comfort and support on the court, while the responsive cushioning helps you make quick cuts and jumps with ease."
+  },
+  "under-armour-charged-rogue": {
+    "id": 3,
+    "name": "Under Armour Charged Rogue",
+    "shoe_identifier": "under-armour-charged-rogue",
+    "images": [
+      "https://underarmour.scene7.com/is/image/Underarmour/3021947-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021947-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021947-001_FC"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Under Armour Charged Rogue is a unisex running shoe designed for comfort and performance. It features a lightweight and breathable upper, along with Charged Cushioning technology for responsive cushioning and energy return with every step."
+  },
+  "under-armour-assert-8": {
+    "id": 4,
+    "name": "Under Armour Assert 8",
+    "shoe_identifier": "under-armour-assert-8",
+    "images": [
+      "https://underarmour.scene7.com/is/image/Underarmour/3021952-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021952-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021952-001_FC"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Under Armour Assert 8 is a versatile training shoe suitable for both men and women. It features a durable yet breathable upper, along with a cushioned midsole for comfort and support during various workout routines."
+  },
+  "under-armour-hovr-machina": {
+    "id": 5,
+    "name": "Under Armour HOVR Machina",
+    "shoe_identifier": "under-armour-hovr-machina",
+    "images": [
+      "https://underarmour.scene7.com/is/image/Underarmour/3021953-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021953-001_FC",
+      "https://underarmour.scene7.com/is/image/Underarmour/3021953-001_FC"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Under Armour HOVR Machina is a high-performance running shoe designed for both men and women. It features UA HOVR technology for a 'zero gravity feel', providing energy return and impact absorption with every stride. The breathable upper ensures comfort and ventilation during your runs."
+  },
+  "adidas-ultraboost-21": {
+    "id": 1,
+    "name": "Adidas Ultraboost 21",
+    "shoe_identifier": "adidas-ultraboost-21",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/ff1b8b7d1e644c14a66ba9640097a59a_9366/Ultraboost_21_Shoes_White_FY0376_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/ff1b8b7d1e644c14a66ba9640097a59a_9366/Ultraboost_21_Shoes_White_FY0376_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/ff1b8b7d1e644c14a66ba9640097a59a_9366/Ultraboost_21_Shoes_White_FY0376_01_standard.jpg"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Adidas Ultraboost 21 is a premium running shoe suitable for both men and women. It features an updated design with even more Boost cushioning for maximum energy return and a responsive ride. The Primeknit upper offers a snug and supportive fit, while the Stretchweb outsole provides traction and flexibility."
+  },
+  "adidas-nmd-r1": {
+    "id": 2,
+    "name": "Adidas NMD R1",
+    "shoe_identifier": "adidas-nmd-r1",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/603ad1e79e2c4cb98d4ba94401379f87_9366/NMD_R1_Shoes_Black_GZ9261_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/603ad1e79e2c4cb98d4ba94401379f87_9366/NMD_R1_Shoes_Black_GZ9261_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/603ad1e79e2c4cb98d4ba94401379f87_9366/NMD_R1_Shoes_Black_GZ9261_01_standard.jpg"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Adidas NMD R1 is a versatile casual shoe suitable for both men and women. It features a sock-like Primeknit upper and responsive Boost cushioning for all-day comfort. The distinctive NMD plugs add signature style, making it a streetwear favorite."
+  },
+  "adidas-ozweego": {
+    "id": 3,
+    "name": "Adidas Ozweego",
+    "shoe_identifier": "adidas-ozweego",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/ebbb76d3e4e44d5e98d3aa4d011f3c14_9366/OZWEEGO_Shoes_Black_FV9654_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/ebbb76d3e4e44d5e98d3aa4d011f3c14_9366/OZWEEGO_Shoes_Black_FV9654_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/ebbb76d3e4e44d5e98d3aa4d011f3c14_9366/OZWEEGO_Shoes_Black_FV9654_01_standard.jpg"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Adidas Ozweego is a stylish and comfortable casual shoe for both men and women. It features a retro-inspired design with modern cushioning for all-day comfort. The lightweight and breathable upper provide a snug fit, while the chunky sole adds a touch of street-style flair."
+  },
+  "adidas-stan-smith": {
+    "id": 4,
+    "name": "Adidas Stan Smith",
+    "shoe_identifier": "adidas-stan-smith",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/23e6b8d7f26c4633b927a87000c8c1b8_9366/Stan_Smith_Shoes_White_M20324_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/23e6b8d7f26c4633b927a87000c8c1b8_9366/Stan_Smith_Shoes_White_M20324_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/23e6b8d7f26c4633b927a87000c8c1b8_9366/Stan_Smith_Shoes_White_M20324_01_standard.jpg"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Adidas Stan Smith is an iconic casual shoe suitable for both men and women. It features a classic tennis-inspired design with a clean leather upper and perforated 3-Stripes for added breathability. The rubber cupsole provides durable traction, making it perfect for everyday wear."
+  },
+  "adidas-superstar": {
+    "id": 5,
+    "name": "Adidas Superstar",
+    "shoe_identifier": "adidas-superstar",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/4a4dd4d7cfc9476e98c5ab9a0158f897_9366/Superstar_Shoes_White_FV3284_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/4a4dd4d7cfc9476e98c5ab9a0158f897_9366/Superstar_Shoes_White_FV3284_01_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/4a4dd4d7cfc9476e98c5ab9a0158f897_9366/Superstar_Sho"
+    ],
+    "sizes": ["7", "8", "9", "10"],
+    "description": "The Superstar is an iconic casual shoe suitable for both men and women. It features a classic tennis-inspired design with a clean leather upper and perforated 3-Stripes for added breathability. The rubber cupsole provides durable traction, making it perfect for everyday wear."
+  }
+}
