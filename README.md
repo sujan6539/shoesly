@@ -16,12 +16,10 @@ Shoesly is a Flutter application that provides users with a seamless shopping ex
 
 ## Features
 
-- **Shoe Listing:** Browse through a vast collection of shoes from top brands.
+- **Shoe Listing:** Browse through a vast collection of shoes from top brands with filters for the user.
 - **Detailed Product Pages:** View high-resolution images, descriptions, sizes, pricing, and customer reviews for each shoe.
 - **Shopping Cart:** Add shoes to your cart, review your selections, and proceed to checkout.
 - **Secure Checkout:** Enjoy secure payment processing with multiple payment options.
-- **Order Tracking:** Track the status of your orders in real-time.
-- **User Accounts:** Register for an account to save preferences, view order history, and manage shipping addresses.
 - **Customer Support:** Reach out to our support team for assistance and feedback.
 
 ## Screenshots
@@ -43,8 +41,8 @@ for more, visit the screenshot folder in the root dir.
 ## Technologies Used
 
 - Flutter
-- Firebase (Authentication, Real-time Database)
-- Provider (State Management)
+- Firebase (Real-time Database, analytics)
+- Riverpod (State Management)
 - Material Design
 
 ## Installation
