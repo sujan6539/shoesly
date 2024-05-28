@@ -26,7 +26,8 @@ class CartCta extends ConsumerWidget {
                 mainAxisSize: MainAxisSize.max,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text("Price", style: Theme.of(context).textTheme.labelSmall),
+                  Text("Grand Total",
+                      style: Theme.of(context).textTheme.labelSmall),
                   Text("\$$grandTotal",
                       style: Theme.of(context).textTheme.titleMedium)
                 ]),

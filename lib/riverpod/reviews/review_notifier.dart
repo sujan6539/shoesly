@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shoesly/model/shoe_review.dart';
 import 'package:shoesly/riverpod/reviews/review_repository.dart';
@@ -34,5 +32,5 @@ final reviewAvgProvider = Provider.family<String, String>((ref, id) {
   for (var r in shoeReview.reviews) {
     sum += r.stars.toDouble();
   }
-  return size == 0 ? '0' : (sum / size).toStringAsFixed(1);
+  return size == 0 ? '5.0' : (sum / size).toStringAsFixed(1);
 });

@@ -172,7 +172,7 @@ class _ProductDetailState extends ConsumerState<ProductDetailPage> {
             shoeIdentifier: detail.shoeIdentifier,
             imageURL: detail.images.last,
             brand: widget.product.brand,
-            color: 'color',
+            color: 'black',
             size: detail.sizes[sizeSelectedIndex],
             price: widget.product.price,
             quantity: 1));

@@ -47,7 +47,7 @@ class ItemCard extends ConsumerWidget {
                   top: 8,
                   left: 8,
                   child: Icon(
-                    Icons.star,
+                    Icons.favorite_border_outlined,
                     color: Colors.grey,
                     size: 20,
                   ),

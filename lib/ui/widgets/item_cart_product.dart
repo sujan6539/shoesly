@@ -11,8 +11,8 @@ class ItemCartProduct extends ConsumerStatefulWidget {
 
   ItemCartProduct(
     this.orderDetail, {
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   ConsumerState<ItemCartProduct> createState() => _ItemCartProductState();
@@ -78,7 +78,7 @@ class _ItemCartProductState extends ConsumerState<ItemCartProduct> {
                     ),
                     SizedBox(height: $style.insets.xxs),
                     Text(
-                      '${orderDetail.brand} . ${orderDetail.color} . ${orderDetail.size}',
+                      '${orderDetail.brand} . ${orderDetail.color} . Size: ${orderDetail.size}',
                       style: const TextStyle(
                         color: Colors.grey,
                       ),
@@ -111,9 +111,11 @@ class _ItemCartProductState extends ConsumerState<ItemCartProduct> {
                               style: const TextStyle(fontSize: 16),
                             ),
                             IconButton(
-                              icon: const Icon(
+                              icon: Icon(
                                 Icons.add_circle_outline,
-                                color: Colors.black,
+                                color: orderDetail.quantity < 100
+                                    ? Colors.black
+                                    : Colors.grey,
                               ),
                               onPressed: () {
                                 _updateQuantity(true, cartNotifier);
@@ -138,7 +140,9 @@ class _ItemCartProductState extends ConsumerState<ItemCartProduct> {
   _updateQuantity(bool shouldIncrease, CartNotifier cartNotifier) {
     setState(() {
       if (shouldIncrease) {
-        widget.orderDetail.quantity += 1;
+        if (widget.orderDetail.quantity < 100) {
+          widget.orderDetail.quantity += 1;
+        }
       } else {
         if (widget.orderDetail.quantity > 1) {
           widget.orderDetail.quantity -= 1;
