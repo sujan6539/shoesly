@@ -81,6 +81,12 @@ for more, visit the screenshot folder in the root dir.
    ```bash
    flutter run
    ```
+   
+## TODO:
+   - color filtering: Filtering products based on color is currently disabled because of data limitations. The solution to fix the issue is pretty easy: Link the       image URL to the color and save the selection to the user selection state.
+   - TODO: reviews average calculations.
+   - TODO: Seeding to an internal database to load data when the internet is not available.
+   - User log in, register flow.
 
 ## Contributing
 
