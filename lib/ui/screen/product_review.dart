@@ -46,6 +46,8 @@ class _ProductReviewState extends ConsumerState<ProductReview> {
         .read(firebaseAnalyticsProvider)
         .logScreenView(screenName: productReviewPageName);
 
+    var reviewRef = ref.watch(reviewAvgProvider(widget.productIdentifier));
+
     ShoeReview shoeReview =
         ref.watch(reviewNotifierProvider(widget.productIdentifier));
 
@@ -61,7 +63,7 @@ class _ProductReviewState extends ConsumerState<ProductReview> {
             ),
             SizedBox(width: $style.insets.xxs),
             Text(
-              '4.5',
+              reviewRef,
               style: Theme.of(context)
                   .textTheme
                   .titleMedium

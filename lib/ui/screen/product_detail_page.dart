@@ -63,6 +63,8 @@ class _ProductDetailState extends ConsumerState<ProductDetailPage> {
 
     ShoeReview shoeReview =
         ref.watch(reviewNotifierProvider(detail.shoeIdentifier));
+    var reviewRef = ref.watch(reviewAvgProvider(widget.shoeIdentifier));
+    int reviewCountRef = ref.watch(reviewCountProvider(widget.shoeIdentifier));
 
     return Scaffold(
       appBar: getAppBarWidget(ref, context, "", [
@@ -94,15 +96,15 @@ class _ProductDetailState extends ConsumerState<ProductDetailPage> {
                   ),
                   SizedBox(width: $style.insets.xxs),
                   Text(
-                    '4.5',
+                    '$reviewRef',
                     style: Theme.of(context)
                         .textTheme
                         .titleMedium
                         ?.copyWith(fontSize: 12),
                   ),
                   SizedBox(width: $style.insets.xxs),
-                  const Text(
-                    '(1045 Reviews)',
+                  Text(
+                    '($reviewCountRef Reviews)',
                     style: TextStyle(fontSize: 8, color: Colors.grey),
                   ),
                 ],

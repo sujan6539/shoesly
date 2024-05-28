@@ -1,15 +1,20 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shoesly/main.dart';
 import 'package:shoesly/model/product.dart';
+import 'package:shoesly/riverpod/reviews/review_notifier.dart';
 
-class ItemCard extends StatelessWidget {
+class ItemCard extends ConsumerWidget {
   Product product;
 
   ItemCard({super.key, required this.product});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    var reviewRef = ref.watch(reviewAvgProvider(product.slug));
+    int reviewCountRef = ref.watch(reviewCountProvider(product.slug));
+
     return GestureDetector(
       onTap: () {
         context.push('/product_detail/${product.slug}', extra: product);
@@ -66,16 +71,16 @@ class ItemCard extends StatelessWidget {
                 ),
                 SizedBox(width: $style.insets.xxs),
                 Text(
-                  '4.5',
+                  '$reviewRef',
                   style: Theme.of(context)
                       .textTheme
                       .titleMedium
                       ?.copyWith(fontSize: 12),
                 ),
                 SizedBox(width: $style.insets.xxs),
-                const Text(
-                  '(1045 Reviews)',
-                  style: TextStyle(fontSize: 8, color: Colors.grey),
+                Text(
+                  '($reviewCountRef Reviews)',
+                  style: const TextStyle(fontSize: 8, color: Colors.grey),
                 ),
               ],
             ),
